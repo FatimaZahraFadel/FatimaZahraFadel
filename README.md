@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Fatima Zahra Fadel!  
 
-<!--
-**FatimaZahraFadel/FatimaZahraFadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. I have experience in programming, modeling, and implementing learning algorithms. Currently, I am seeking opportunities to deepen my knowledge and contribute to innovative projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn  
+- **Web Development**: HTML, CSS, JavaScript, Vue.js  
+- **Programming**: Python, C, Java, Assembly, Go, C++  
+- **Database Management**: SQL, PostgreSQL  
+- **Robotics & Embedded Systems**: Arduino, Microcontroller Programming, Autonomous Navigation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+- **Engineering in Computer Science** - UM6P, Benguerir  
+
+
+
+<div align="left">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaZahraFadel&theme=tokyonight&show_icons=true" height=150 />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaZahraFadel&langs_count=5&theme=tokyonight" height=150 />
+</a>
+<br>
+<a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=FatimaZahraFadel&theme=rogue" width=50% height=200 alt="graph"/>
+</a>
+</div>
+</div>
+
+📧 **Contact:** fatimazahrafadel@example.com  
+📍 **Location:** Morocco  
