@@ -22,9 +22,7 @@ I'm a third-year Computer Science student passionate about **Artificial Intellig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaZahraFadel&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
-<a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=FatimaZahraFadel&theme=rogue" width=50% height=200 alt="graph"/>
-</a>
+
 </div>
 </div>
 
