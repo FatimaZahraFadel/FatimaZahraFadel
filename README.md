@@ -10,7 +10,7 @@ I am a **third-year Computer Science Engineering student** passionate about **Ar
 - **Robotics & Embedded Systems**: Arduino, Microcontroller Programming, Autonomous Navigation  
 
 ## 🎓 Education  
-- **Engineering in Computer Science** - UM6P, Benguerir  
+- **Engineering in Computer Science** -College of Computing UM6P, Benguerir  
 
 ## 🔬 Academic Projects  
 - **📚 Library Management System** – Software optimizing **cataloging, user management, and transaction tracking**.  
