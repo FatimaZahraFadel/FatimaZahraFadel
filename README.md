@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fatima Zahra Fadel!  
 
-I am a **third-year Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I have experience in **programming, modeling, and implementing learning algorithms** and enjoy working on innovative projects that bridge theory and real-world applications. Currently, I am seeking opportunities to expand my knowledge and contribute to cutting-edge technological advancements.  
+I am a **fourth-year Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I have experience in **programming, modeling, and implementing learning algorithms** and enjoy working on innovative projects that bridge theory and real-world applications. Currently, I am seeking opportunities to expand my knowledge and contribute to cutting-edge technological advancements.  
 
 ## 🚀 Skills  
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn  
