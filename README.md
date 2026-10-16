@@ -8,12 +8,12 @@ I'm always eager to learn, collaborate, and build solutions that combine **resea
 
 ## 🔬 Research Interests
 
-- **Machine Learning & Deep Learning** — model development, evaluation, and interpretability.
-- **Generative AI & Large Language Models** — LLM evaluation, hallucination detection, and reliability.
-- **Knowledge Graphs & GraphRAG** — structured knowledge representation and multi-hop reasoning.
-- **Reinforcement Learning** — intelligent decision-making and optimization.
-- **Explainable & Responsible AI** — model transparency, robustness, and trustworthy AI.
-- **AI for Scientific Discovery** — applying AI to complex, data-driven research problems.
+- **Machine Learning & Deep Learning** : model development, evaluation, and interpretability.
+- **Generative AI & Large Language Models** : LLM evaluation, hallucination detection, and reliability.
+- **Knowledge Graphs & GraphRAG** : structured knowledge representation and multi-hop reasoning.
+- **Reinforcement Learning** : intelligent decision-making and optimization.
+- **Explainable & Responsible AI** : model transparency, robustness, and trustworthy AI.
+- **AI for Scientific Discovery** : applying AI to complex, data-driven research problems.
 
 ## 🛠️ Technical Skills
 
